@@ -6,3 +6,8 @@ installer_output/
 installer_output/
 
 inportant_storage_info.txt
+
+!flatlaf-3.5.4.jar
+!slf4j-api.jar
+!slf4j-nop.jar
+!sqlite-jdbc.jar
