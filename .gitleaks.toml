@@ -1,4 +1,4 @@
-﻿[allowlist]
+[allowlist]
 description = "Ignore third-party dependency JAR archives"
 paths = [
   '''\.jar$'''
